@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm Soyeon
 
 Now I'm learning about data science. 
-So far it's interesting.🙂
+\n So far it's interesting.🙂
 
 <!--
 **SoYeoni621/SoYeoni621** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
